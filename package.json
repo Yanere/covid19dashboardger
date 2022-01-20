@@ -1,0 +1,22 @@
+{
+  "name": "covid-19-dashboard",
+  "version": "1.0.0",
+  "description": "A site showing covid 19 statistic in germany",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "keywords": [
+    "Corona",
+    "Covid-19",
+    "Corona-Dashboard"
+  ],
+  "author": "Erenay Karaduman",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.2.0"
+  },
+  "dependencies": {
+    "chart.js": "^3.7.0"
+  }
+}
