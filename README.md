@@ -12,7 +12,7 @@ The application shows the following data:
   - Total Cases
   - Total deaths
   - Total recovered
-    -Cases in the last 7 days
+  - Cases in the last 7 days
   - Global Incidence in the last 7 days
   - Total first vaccinations
   - Total second vaccinations
